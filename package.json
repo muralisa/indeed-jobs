@@ -1,0 +1,13 @@
+{
+  "name": "indeed-jobs",
+  "description": "Indeed jobs ingestion module",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "async": "0.9.0",
+    "unirest": "^0.4.2"
+  },
+  "main": "driver.js",
+  "author": "Murali Sangubhatla",
+  "license": "ISC"
+}
